@@ -1,4 +1,6 @@
-# set
+# set tools info
+
+A Simple Tools For Linux Base Tarminal Setup 
 
 # command
 

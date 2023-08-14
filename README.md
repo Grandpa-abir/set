@@ -1,6 +1,6 @@
 # set
 
-#command
+# command
 
  
 `pkg update -y`<br>
